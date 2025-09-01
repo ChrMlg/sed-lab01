@@ -1,0 +1,9 @@
+PGP encripta el contenido de un mensaje pero no el aasunto y tampoco anonimiza al usuario, haciendo que dentro del trafico pueda ser visto el remitente de dicho mensaje y por eso tampoco se recomienda hacer uso de informacion sensible en el asunto del mensaje.
+
+Es preferible utilizar cifrado asimetrico deonde sea prioridad la seguridad y la integridad de los datos antes que la velocidad, por ejemplo autenticacion de identidad, firmas digitales y el destinatario puede verificar utilizando la clave publica del remitente, para comprobar que el mensaje enviado es de quien dice ser
+
+Planeacion: se define objetivo, alcance, presupuesta y asignacion de recursos necesarios. 
+Diseño: analisis de requisistos de software, y estudios de viabilidad.
+Desarrollo: Escritura de codigo real siguiendo los diseños y el analisis previo.
+Pruebas: Evaluacion exaustiva del programa para analisis y correccion de errores ya sean de seguridad o fallas tecnicas.
+Liberacion: se deja abierto al publico.  

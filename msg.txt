@@ -7,3 +7,4 @@ Diseño: analisis de requisistos de software, y estudios de viabilidad.
 Desarrollo: Escritura de codigo real siguiendo los diseños y el analisis previo.
 Pruebas: Evaluacion exaustiva del programa para analisis y correccion de errores ya sean de seguridad o fallas tecnicas.
 Liberacion: se deja abierto al publico.  
+-----
